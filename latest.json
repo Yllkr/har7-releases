@@ -1,15 +1,15 @@
 {
-  "version": "0.4.0",
-  "notes": "Catch-up: watch programmes that already aired from the TV guide, or press From the start. Settings now has Report a problem. The Home banner no longer jumps.",
-  "pub_date": "2026-10-26T14:34:55Z",
+  "version": "0.4.1",
+  "notes": "The TV guide opens and scrolls smoothly even with thousands of channels, and fast channel switching can no longer leave HAR7 stuck on one channel.",
+  "pub_date": "2026-10-26T15:00:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamU2NllYZDhwbUZRcGY1dmdKVE9uaTdYK2lVS0YyelN2UUNXNnF4bFN4akhHb1p3b3VsMTZ1UWFDS2hHZ0drRW16OHBYcnpNa1BlU0p1MzI1RjJDc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MjM0CWZpbGU6SEFSN18wLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjAKMWY5L3R3ZDZmUW5VMWJmUzZMN0dBRFJYc0pjN1lHd00wRVhWUXhkRzhNU1NWMXkxandqYTI5SGE2Z3BtSmsxTWZBVkNlQ3JSRk5DUmpRMWczaStLRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.0/HAR7_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJWVHB6VkN0bE9JVXIvanMyalI1OEc1MzJLYjdibjBlM2RVSzVLUkx6azFSb2FudUNJclNiNXNJbEtrSnRQYU5EUG9LbGJlWE9oNkE0M1cvR2xVWncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI2ODIxCWZpbGU6SEFSN18wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKNGxzSVNJK0FTYlJXVnk5ZDBhbysrYXdWbG9vWndZY002ZFV4bmpvUGtNUEgrdVEydG9mNG9xMCttMXJPd3lJcjd3amdNTG1ZUklwY3pyNWlIWlo1Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.1/HAR7_0.4.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamU2NllYZDhwbUZRcGY1dmdKVE9uaTdYK2lVS0YyelN2UUNXNnF4bFN4akhHb1p3b3VsMTZ1UWFDS2hHZ0drRW16OHBYcnpNa1BlU0p1MzI1RjJDc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MjM0CWZpbGU6SEFSN18wLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjAKMWY5L3R3ZDZmUW5VMWJmUzZMN0dBRFJYc0pjN1lHd00wRVhWUXhkRzhNU1NWMXkxandqYTI5SGE2Z3BtSmsxTWZBVkNlQ3JSRk5DUmpRMWczaStLRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.0/HAR7_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJWVHB6VkN0bE9JVXIvanMyalI1OEc1MzJLYjdibjBlM2RVSzVLUkx6azFSb2FudUNJclNiNXNJbEtrSnRQYU5EUG9LbGJlWE9oNkE0M1cvR2xVWncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI2ODIxCWZpbGU6SEFSN18wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKNGxzSVNJK0FTYlJXVnk5ZDBhbysrYXdWbG9vWndZY002ZFV4bmpvUGtNUEgrdVEydG9mNG9xMCttMXJPd3lJcjd3amdNTG1ZUklwY3pyNWlIWlo1Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.1/HAR7_0.4.1_x64-setup.exe"
     }
   }
 }

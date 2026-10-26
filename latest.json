@@ -1,15 +1,15 @@
 {
-  "version": "0.4.1",
-  "notes": "The TV guide opens and scrolls smoothly even with thousands of channels, and fast channel switching can no longer leave HAR7 stuck on one channel.",
-  "pub_date": "2026-10-26T15:00:49Z",
+  "version": "0.4.2",
+  "notes": "Volume and pause no longer stop working on channels after using the volume slider.",
+  "pub_date": "2026-10-26T19:47:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJWVHB6VkN0bE9JVXIvanMyalI1OEc1MzJLYjdibjBlM2RVSzVLUkx6azFSb2FudUNJclNiNXNJbEtrSnRQYU5EUG9LbGJlWE9oNkE0M1cvR2xVWncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI2ODIxCWZpbGU6SEFSN18wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKNGxzSVNJK0FTYlJXVnk5ZDBhbysrYXdWbG9vWndZY002ZFV4bmpvUGtNUEgrdVEydG9mNG9xMCttMXJPd3lJcjd3amdNTG1ZUklwY3pyNWlIWlo1Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.1/HAR7_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJkdkxXeWpFK3c2OWcxU2FQbHlsSDNuSHBtcmJ2ZkdPbzRQaEtuc2pFOXowWjVSWHdKaE0xT0FLTkYyVDNkV1dFYTUrcXBwQ1FGY2lmMjNHQkNkVlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQzOTI3CWZpbGU6SEFSN18wLjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIKUzMreTJqYmdxQlBQbHZZSU5CWnFpSlpvRHNjeDdGR3BZWk5WdXlScUcrUitYWVlKZVZ3TzFWak5nd2FxSkdidjZqNUtHWWNobEp0S3JhdVFLY1djQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.2/HAR7_0.4.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJWVHB6VkN0bE9JVXIvanMyalI1OEc1MzJLYjdibjBlM2RVSzVLUkx6azFSb2FudUNJclNiNXNJbEtrSnRQYU5EUG9LbGJlWE9oNkE0M1cvR2xVWncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI2ODIxCWZpbGU6SEFSN18wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKNGxzSVNJK0FTYlJXVnk5ZDBhbysrYXdWbG9vWndZY002ZFV4bmpvUGtNUEgrdVEydG9mNG9xMCttMXJPd3lJcjd3amdNTG1ZUklwY3pyNWlIWlo1Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.1/HAR7_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RamJkdkxXeWpFK3c2OWcxU2FQbHlsSDNuSHBtcmJ2ZkdPbzRQaEtuc2pFOXowWjVSWHdKaE0xT0FLTkYyVDNkV1dFYTUrcXBwQ1FGY2lmMjNHQkNkVlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQzOTI3CWZpbGU6SEFSN18wLjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIKUzMreTJqYmdxQlBQbHZZSU5CWnFpSlpvRHNjeDdGR3BZWk5WdXlScUcrUitYWVlKZVZ3TzFWak5nd2FxSkdidjZqNUtHWWNobEp0S3JhdVFLY1djQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.4.2/HAR7_0.4.2_x64-setup.exe"
     }
   }
 }

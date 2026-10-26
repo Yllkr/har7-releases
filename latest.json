@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0",
+  "notes": "Updates: HAR7 now updates itself. Opens straight to Home, a Playlists page to switch or add accounts, channel initials when a logo is missing, and TV guide fixes.",
+  "pub_date": "2026-10-26T13:54:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RalU5bWU0cHBEdnl2OTBsMzlrUlJRdW5Bc1VVMU1MY0gyZlhTVldsRVRUOUJRbVRyaUV1Y3lVUTNQS3VYdVFTREZhbno3Q2JqSlk3TGtmemZDRWVacVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIyNjg0CWZpbGU6SEFSN18wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKelF3eW9IMWd3RFJEWkNKZ1RxZm9xUldwaDU4SFdiaUJXaDRMeEJQenk0YXFtZCsyeHNLRlpGVmVta2RCTi9VRDNKK3RtbytEaEREQ3pTZEdVSHZXQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.3.0/HAR7_0.3.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM0toRDgybG9RalU5bWU0cHBEdnl2OTBsMzlrUlJRdW5Bc1VVMU1MY0gyZlhTVldsRVRUOUJRbVRyaUV1Y3lVUTNQS3VYdVFTREZhbno3Q2JqSlk3TGtmemZDRWVacVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIyNjg0CWZpbGU6SEFSN18wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKelF3eW9IMWd3RFJEWkNKZ1RxZm9xUldwaDU4SFdiaUJXaDRMeEJQenk0YXFtZCsyeHNLRlpGVmVta2RCTi9VRDNKK3RtbytEaEREQ3pTZEdVSHZXQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/Yllkr/har7-releases/main/releases/v0.3.0/HAR7_0.3.0_x64-setup.exe"
+    }
+  }
+}
